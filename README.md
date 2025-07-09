@@ -1,6 +1,6 @@
 # DJI_QianRuShi_BiShi
 【2025-2026】大疆嵌入式岗位笔试知识点整理最全（以及超详细知识点详解）
-全套95元，整理不易，非诚勿扰，微信号：bb115145
+全套95元（下面是文件的介绍），整理不易，非诚勿扰，微信号：bb115145
 ![358f1440bfa8e07699b5871355856bb](https://github.com/user-attachments/assets/07732b6d-0909-4e26-98d4-c0c743dce38c)
 
 ![image](https://github.com/user-attachments/assets/e4bc9054-7fbe-4ccf-8c25-b992a10b3b4e)
